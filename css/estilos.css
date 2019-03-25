@@ -15,21 +15,31 @@
 }
 
 /* $2: Estilos tipográficos */
-
-body {
-  font-family: sans-serif;
-  line-height: 1.5;
+img {
+    max-width: 100%;
 }
 
-h1 {
-  font-size: 100px;
-  margin-bottom: 15px;
-  color: aquamarine;
-  font-family: serif;
+.logo {
+    width: 13%;
+    height: 100%;
+    padding: 20px;
+    float: left;
 }
 
-p {
-  margin-bottom: 15px;
+.menu1, .menu2, .menu3  {
+    font-family: sans-serif;
+    font-size: 12pt;
+    padding: 20px;
+    width: 17%;
+    float: right;
+   
+
+   
 }
+
+
+ 
+    
+
 
 /* $3: XXXX */
